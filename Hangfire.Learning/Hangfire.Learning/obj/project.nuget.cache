@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8SpDZHuoEMpKjFhb/WMeTU8GMCu3cx10/hxjl4O3ixdTXr2DkCfaKBnnQxPRDURpF2+sezs6g3r7Ilj/uop/hw==",
+  "success": true,
+  "projectFilePath": "C:\\Desenvolvimentos\\Local\\.Net\\DotNetWithHangFire\\Hangfire.Learning\\Hangfire.Learning\\Hangfire.Learning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tales.rodrigues\\.nuget\\packages\\hangfire.core\\1.7.28\\hangfire.core.1.7.28.nupkg.sha512",
+    "C:\\Users\\tales.rodrigues\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
